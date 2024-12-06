@@ -1,0 +1,12 @@
+{
+    "grid_size": {
+        "width": 25,
+        "height": 25
+    },
+    "grid_dimensions": {
+        "rows": 9,
+        "cols": 22
+    },
+    "total_cells": 198,
+    "cell_area_pixels": 625
+}

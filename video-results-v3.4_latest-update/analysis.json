@@ -1,0 +1,352 @@
+{
+    "2": {
+        "timestamp": 2.0,
+        "stones_detected": 3,
+        "grid_coverage_percentage": 3.03,
+        "grid_dimensions": "9x22",
+        "valid_cells": 165,
+        "occupied_cells": 5,
+        "total_stone_area_pixels": 159,
+        "roi_area_pixels": 105668,
+        "individual_stone_areas": [
+            35.5,
+            36.0,
+            49.5
+        ],
+        "frame_number": 46
+    },
+    "3": {
+        "timestamp": 3.0,
+        "stones_detected": 7,
+        "grid_coverage_percentage": 5.45,
+        "grid_dimensions": "9x22",
+        "valid_cells": 165,
+        "occupied_cells": 9,
+        "total_stone_area_pixels": 425,
+        "roi_area_pixels": 105668,
+        "individual_stone_areas": [
+            34.0,
+            38.5,
+            44.5,
+            48.5,
+            56.5,
+            39.0,
+            56.0
+        ],
+        "frame_number": 69
+    },
+    "4": {
+        "timestamp": 4.0,
+        "stones_detected": 5,
+        "grid_coverage_percentage": 6.06,
+        "grid_dimensions": "9x22",
+        "valid_cells": 165,
+        "occupied_cells": 10,
+        "total_stone_area_pixels": 308,
+        "roi_area_pixels": 105668,
+        "individual_stone_areas": [
+            65.0,
+            31.5,
+            66.5,
+            38.0,
+            33.5
+        ],
+        "frame_number": 92
+    },
+    "5": {
+        "timestamp": 5.0,
+        "stones_detected": 4,
+        "grid_coverage_percentage": 3.64,
+        "grid_dimensions": "9x22",
+        "valid_cells": 165,
+        "occupied_cells": 6,
+        "total_stone_area_pixels": 217,
+        "roi_area_pixels": 105668,
+        "individual_stone_areas": [
+            35.0,
+            48.5,
+            48.0,
+            31.0
+        ],
+        "frame_number": 115
+    },
+    "6": {
+        "timestamp": 6.0,
+        "stones_detected": 2,
+        "grid_coverage_percentage": 1.82,
+        "grid_dimensions": "9x22",
+        "valid_cells": 165,
+        "occupied_cells": 3,
+        "total_stone_area_pixels": 93,
+        "roi_area_pixels": 105668,
+        "individual_stone_areas": [
+            65.54,
+            69.52
+        ],
+        "frame_number": 138
+    },
+    "8": {
+        "timestamp": 8.0,
+        "stones_detected": 3,
+        "grid_coverage_percentage": 2.42,
+        "grid_dimensions": "9x22",
+        "valid_cells": 165,
+        "occupied_cells": 4,
+        "total_stone_area_pixels": 174,
+        "roi_area_pixels": 105668,
+        "individual_stone_areas": [
+            52.5,
+            31.5,
+            45.0
+        ],
+        "frame_number": 184
+    },
+    "9": {
+        "timestamp": 9.0,
+        "stones_detected": 5,
+        "grid_coverage_percentage": 6.67,
+        "grid_dimensions": "9x22",
+        "valid_cells": 165,
+        "occupied_cells": 11,
+        "total_stone_area_pixels": 439,
+        "roi_area_pixels": 105668,
+        "individual_stone_areas": [
+            32.5,
+            42.0,
+            65.0,
+            164.5,
+            54.0
+        ],
+        "frame_number": 207
+    },
+    "10": {
+        "timestamp": 10.0,
+        "stones_detected": 3,
+        "grid_coverage_percentage": 1.82,
+        "grid_dimensions": "9x22",
+        "valid_cells": 165,
+        "occupied_cells": 3,
+        "total_stone_area_pixels": 161,
+        "roi_area_pixels": 105668,
+        "individual_stone_areas": [
+            49.5,
+            35.0,
+            36.5
+        ],
+        "frame_number": 230
+    },
+    "11": {
+        "timestamp": 11.0,
+        "stones_detected": 1,
+        "grid_coverage_percentage": 1.21,
+        "grid_dimensions": "9x22",
+        "valid_cells": 165,
+        "occupied_cells": 2,
+        "total_stone_area_pixels": 61,
+        "roi_area_pixels": 105668,
+        "individual_stone_areas": [
+            95.5
+        ],
+        "frame_number": 253
+    },
+    "12": {
+        "timestamp": 12.0,
+        "stones_detected": 2,
+        "grid_coverage_percentage": 1.82,
+        "grid_dimensions": "9x22",
+        "valid_cells": 165,
+        "occupied_cells": 3,
+        "total_stone_area_pixels": 235,
+        "roi_area_pixels": 105668,
+        "individual_stone_areas": [
+            108.0,
+            84.5
+        ],
+        "frame_number": 276
+    },
+    "14": {
+        "timestamp": 14.0,
+        "stones_detected": 2,
+        "grid_coverage_percentage": 3.03,
+        "grid_dimensions": "9x22",
+        "valid_cells": 165,
+        "occupied_cells": 5,
+        "total_stone_area_pixels": 171,
+        "roi_area_pixels": 105668,
+        "individual_stone_areas": [
+            297.51,
+            202.08
+        ],
+        "frame_number": 322
+    },
+    "15": {
+        "timestamp": 15.0,
+        "stones_detected": 1,
+        "grid_coverage_percentage": 1.21,
+        "grid_dimensions": "9x22",
+        "valid_cells": 165,
+        "occupied_cells": 2,
+        "total_stone_area_pixels": 54,
+        "roi_area_pixels": 105668,
+        "individual_stone_areas": [
+            41.0
+        ],
+        "frame_number": 345
+    },
+    "16": {
+        "timestamp": 16.0,
+        "stones_detected": 3,
+        "grid_coverage_percentage": 4.85,
+        "grid_dimensions": "9x22",
+        "valid_cells": 165,
+        "occupied_cells": 8,
+        "total_stone_area_pixels": 190,
+        "roi_area_pixels": 105668,
+        "individual_stone_areas": [
+            31.5,
+            33.0,
+            81.5
+        ],
+        "frame_number": 368
+    },
+    "17": {
+        "timestamp": 17.0,
+        "stones_detected": 4,
+        "grid_coverage_percentage": 3.64,
+        "grid_dimensions": "9x22",
+        "valid_cells": 165,
+        "occupied_cells": 6,
+        "total_stone_area_pixels": 294,
+        "roi_area_pixels": 105668,
+        "individual_stone_areas": [
+            98.0,
+            40.5,
+            40.0,
+            47.5
+        ],
+        "frame_number": 391
+    },
+    "18": {
+        "timestamp": 18.0,
+        "stones_detected": 1,
+        "grid_coverage_percentage": 1.21,
+        "grid_dimensions": "9x22",
+        "valid_cells": 165,
+        "occupied_cells": 2,
+        "total_stone_area_pixels": 48,
+        "roi_area_pixels": 105668,
+        "individual_stone_areas": [
+            105.01
+        ],
+        "frame_number": 414
+    },
+    "20": {
+        "timestamp": 20.0,
+        "stones_detected": 2,
+        "grid_coverage_percentage": 1.82,
+        "grid_dimensions": "9x22",
+        "valid_cells": 165,
+        "occupied_cells": 3,
+        "total_stone_area_pixels": 116,
+        "roi_area_pixels": 105668,
+        "individual_stone_areas": [
+            54.5,
+            36.0
+        ],
+        "frame_number": 460
+    },
+    "21": {
+        "timestamp": 21.0,
+        "stones_detected": 3,
+        "grid_coverage_percentage": 3.03,
+        "grid_dimensions": "9x22",
+        "valid_cells": 165,
+        "occupied_cells": 5,
+        "total_stone_area_pixels": 158,
+        "roi_area_pixels": 105668,
+        "individual_stone_areas": [
+            87.07,
+            61.68,
+            68.93
+        ],
+        "frame_number": 483
+    },
+    "22": {
+        "timestamp": 22.0,
+        "stones_detected": 3,
+        "grid_coverage_percentage": 2.42,
+        "grid_dimensions": "9x22",
+        "valid_cells": 165,
+        "occupied_cells": 4,
+        "total_stone_area_pixels": 210,
+        "roi_area_pixels": 105668,
+        "individual_stone_areas": [
+            59.36,
+            34.12,
+            21.49
+        ],
+        "frame_number": 506
+    },
+    "23": {
+        "timestamp": 23.0,
+        "stones_detected": 2,
+        "grid_coverage_percentage": 1.82,
+        "grid_dimensions": "9x22",
+        "valid_cells": 165,
+        "occupied_cells": 3,
+        "total_stone_area_pixels": 133,
+        "roi_area_pixels": 105668,
+        "individual_stone_areas": [
+            35.5,
+            64.0
+        ],
+        "frame_number": 529
+    },
+    "24": {
+        "timestamp": 24.0,
+        "stones_detected": 2,
+        "grid_coverage_percentage": 2.42,
+        "grid_dimensions": "9x22",
+        "valid_cells": 165,
+        "occupied_cells": 4,
+        "total_stone_area_pixels": 149,
+        "roi_area_pixels": 105668,
+        "individual_stone_areas": [
+            60.65,
+            22.48
+        ],
+        "frame_number": 552
+    },
+    "26": {
+        "timestamp": 26.0,
+        "stones_detected": 5,
+        "grid_coverage_percentage": 4.24,
+        "grid_dimensions": "9x22",
+        "valid_cells": 165,
+        "occupied_cells": 7,
+        "total_stone_area_pixels": 402,
+        "roi_area_pixels": 105668,
+        "individual_stone_areas": [
+            142.0,
+            61.5,
+            32.0,
+            45.5,
+            34.5
+        ],
+        "frame_number": 598
+    },
+    "27": {
+        "timestamp": 27.0,
+        "stones_detected": 1,
+        "grid_coverage_percentage": 0.61,
+        "grid_dimensions": "9x22",
+        "valid_cells": 165,
+        "occupied_cells": 1,
+        "total_stone_area_pixels": 51,
+        "roi_area_pixels": 105668,
+        "individual_stone_areas": [
+            116.6
+        ],
+        "frame_number": 621
+    }
+}
